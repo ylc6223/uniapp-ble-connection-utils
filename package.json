@@ -1,0 +1,15 @@
+{
+  "name": "uni-ble-utils",
+  "version": "1.0.0",
+  "description": "a uniapp bluetooth low energy connection utils",
+  "main": "BLE.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uniapp",
+    "ble"
+  ],
+  "author": "Jerry",
+  "license": "MIT"
+}
